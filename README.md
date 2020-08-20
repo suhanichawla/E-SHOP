@@ -9,6 +9,11 @@ Following functionalities have been implemented:
 4. Add products
 5. Delete products
 
+# Prerequisites
+- NodeJS
+- npm
+- MongoDB
+
 # Tech stack used
 
 - Frontend: React and Bootstrap
@@ -47,4 +52,7 @@ npm start
 ```
 
 Visit http://localhost:3000/ to see the application in action
+
+
+
 
